@@ -52,7 +52,7 @@
 						Wij zijn niet alleen gespecialiseerd in websites, maar ook in de optimalisatie van social media, 
 						logo's en veel meer.
 					</p>
-					<a class="primary_btn" href="about.php"><span>meer over ons</span></a>
+					<a class="primary_btn" href="about.php"><span>Ons team</span></a>
 				</div>
 			</div>
 		</div>
