@@ -3320,7 +3320,7 @@ h6 {
 }
 
 .service_item:hover {
-    background: #5f30ff
+	background: #1c53b0;
 }
 
 .service_item:hover h4,.service_item:hover p,.service_item:hover .primary_btn2 {
@@ -4130,7 +4130,7 @@ h6 {
 
 .footer_area {
     background: #373636;
-    padding: 120px 0;
+    padding: 0px 0;
     position: relative
 }
 
