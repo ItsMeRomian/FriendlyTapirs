@@ -1,6 +1,6 @@
 <?php include_once('include/header.php'); ?>
 
-<section class="banner_area">
+<section class="banner_area section_gap">
   <div class="banner_inner d-flex align-items-center">
 	  <div class="container">
 		  <div class="banner_content text-center">
@@ -42,58 +42,10 @@
 </div>
 </section>
 
-<section class="brands-area">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-12">
-				<div class="owl-carousel brand-carousel">
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo1.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo2.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo3.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo4.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo5.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo3.png" alt="">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
-<section class="about_area ">
+<section class="about_area section_gap">
 <div class="container">
 	<div class="row justify-content-start align-items-center">
-		
-
 		<div class=" col-lg-5">
 			<div class="main_title text-left">
 				<p class="top_text">YOURI PESSINK</p>
@@ -108,7 +60,6 @@
 				</p>
 			</div>
 		</div>
-		
 		<div class="col-lg-5">
 			<div class="about_img" style="right: unset;">
 				<img class="" src="img/about-us.png" alt="">
@@ -118,50 +69,4 @@
 </div>
 </section>
 
-<section class="brands-area section_gap_bottom">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-12">
-				<div class="owl-carousel brand-carousel">
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo1.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo2.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo3.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo4.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo5.png" alt="">
-						</div>
-					</div>
-					<!-- single-brand -->
-					<div class="single-brand-item d-table">
-						<div class="d-table-cell">
-							<img src="img/brands/logo3.png" alt="">
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 <?php include_once('include/footer.php'); ?>
