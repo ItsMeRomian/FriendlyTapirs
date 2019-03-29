@@ -15,10 +15,8 @@
 						<h5 class="text-uppercase" style="color: #153571;">Betere bereikbaarheid begint online.</h5>
 						<div class="social_icons my-5">
 							<a href="#"><i class="ti-twitter"></i></a>
-							<a href="#"><i class="ti-skype"></i></a>
+							<a href="#"><i class="tib-whatsapp"></i></a>
 							<a href="#"><i class="ti-instagram"></i></a>
-							<a href="#"><i class="ti-dribbble"></i></a>
-							<a href="#"><i class="ti-vimeo"></i></a>
 						</div>
 						<a class="primary_btn" href="portfolio.php"><span>Ons werk</span></a>
 					</div>
