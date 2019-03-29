@@ -326,7 +326,7 @@ button.primary_btn {
 }
 
 .navbar {
-    background: transparent;
+    background: white;
     padding: 0px;
     border: 0px;
     border-radius: 0px;
@@ -4045,6 +4045,10 @@ h6 {
     .section_gap {
         padding-top: 70px;
         padding-bottom: 70px
+    }
+	.section_gap_half {
+        padding-top: 35px;
+        padding-bottom: 35px
     }
 
     .main_title h2 {

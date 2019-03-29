@@ -1,4 +1,9 @@
 <?php include_once('include/header.php'); ?>
+<style>
+.navbar {
+	background: transparent;
+}
+</style>
 <section class="home_banner_area">
 	<div class="banner_inner">
 		<div class="container">

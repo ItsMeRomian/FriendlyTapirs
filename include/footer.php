@@ -6,10 +6,10 @@
 				<div class="footer_top flex-column">
 					<div class="footer_logo">
 						<a href="#">
-							<img src="img/logo2.png" alt="">
+							<img src="img/logo.png" alt=""> <h2 style="color: white;">FriendlyTapirs</h2>
 						</a>
 						<div class="d-lg-block d-none">
-							<nav class="navbar navbar-expand-lg navbar-light justify-content-center">
+							<nav class="navbar navbar-expand-lg navbar-light justify-content-center" style="background-color: transparent;">
 								<div class="collapse navbar-collapse offset">
 									<ul class="nav navbar-nav menu_nav mx-auto">
 										<li class="nav-item"><a class="nav-link text-white" href="index.php">Home</a></li>
