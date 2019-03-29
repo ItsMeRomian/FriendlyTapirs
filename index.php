@@ -7,7 +7,7 @@
 					<div class="banner_content">
 						<h3>FriendlyTapirs</h3>
 						<h1 class="text-uppercase">wij bouwen websites</h1>
-						<h5 class="text-uppercase">Betere bereikbaarheid begint online.</h5>
+						<h5 class="text-uppercase" style="color: #153571;">Betere bereikbaarheid begint online.</h5>
 						<div class="social_icons my-5">
 							<a href="#"><i class="ti-twitter"></i></a>
 							<a href="#"><i class="ti-skype"></i></a>
@@ -15,7 +15,7 @@
 							<a href="#"><i class="ti-dribbble"></i></a>
 							<a href="#"><i class="ti-vimeo"></i></a>
 						</div>
-						<a class="primary_btn" href="#"><span>Ons werk</span></a>
+						<a class="primary_btn" href="portfolio.php"><span>Ons werk</span></a>
 					</div>
 				</div>
 				<div class="col-lg-4">

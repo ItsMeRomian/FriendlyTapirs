@@ -219,7 +219,7 @@ button.primary_btn {
 
 .primary_btn {
     display: inline-block;
-    background: linear-gradient(to right, #1345e6 0%, #ed239f 51%, #1345e6 100%);
+    background: linear-gradient(to right, #7b7878 0%, #1c53b0 51%, #7b7878 100%);
     color: #fff;
     letter-spacing: 0px;
     font-family: "Roboto",sans-serif;
@@ -4126,7 +4126,7 @@ h6 {
 }
 
 .footer_area {
-    background: #021017;
+    background: #373636;
     padding: 120px 0;
     position: relative
 }
