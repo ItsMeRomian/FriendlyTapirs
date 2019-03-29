@@ -14,7 +14,7 @@
   </div>
 </section>
 
-<section class="about_area section_gap">
+<section class="about_area ">
 <div class="container">
 	<div class="row justify-content-start align-items-center">
 		<div class="col-lg-5">
@@ -89,14 +89,14 @@
 	</div>
 </section>
 
-<section class="about_area section_gap">
+<section class="about_area ">
 <div class="container">
 	<div class="row justify-content-start align-items-center">
 		
 
 		<div class=" col-lg-5">
 			<div class="main_title text-left">
-				<p class="top_text">YOURI PESSINK<span></span></p>
+				<p class="top_text">YOURI PESSINK</p>
 				<h2>
 					Creative Art Director <br>
 					And Designer
