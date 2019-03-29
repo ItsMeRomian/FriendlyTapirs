@@ -33,8 +33,7 @@
 		<div class="row justify-content-start align-items-center">
 			<div class="col-lg-5">
 				<div class="about_img">
-					<img class="" src="img/about-us.png" alt="" style="    height: 407px;
-    width: 681px;">
+					<img class="" src="img/about-us.png" alt="">
 				</div>
 			</div>
 			<div class="offset-lg-1 col-lg-5">
@@ -48,7 +47,7 @@
 						Wij zijn niet alleen gespecialiseerd in websites, maar ook in de optimalisatie van social media, 
 						logo's en veel meer.
 					</p>
-					<a class="primary_btn" href="#"><span>Download CV</span></a>
+					<a class="primary_btn" href="about.php"><span>meer over ons</span></a>
 				</div>
 			</div>
 		</div>
@@ -188,7 +187,16 @@
   </div>
 </div>
 </section>
-
+<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="main_title">
+					<p class="top_text"></p>
+					<h2>Wij werken met:<br></h2>
+				</div>
+			</div>
+		</div>
+</div>
 <section class="brands-area section_gap_bottom">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -221,7 +229,7 @@
 					</div>
 					<div class="single-brand-item d-table">
 						<div class="d-table-cell">
-							<img src="img/brands/logo3.png" alt="">
+							<img src="img/brands/logo6.png" alt="">
 						</div>
 					</div>
 				</div>
