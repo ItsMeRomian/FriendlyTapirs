@@ -4,7 +4,7 @@
       <div class="banner_inner d-flex align-items-center">
           <div class="container">
               <div class="banner_content text-center">
-                  <h2>Contact Us</h2>
+                  <h2>Contact</h2>
                   <div class="page_link">
                       <a href="index.html">Home</a>
                       <a href="blog.html">Contact</a>
@@ -18,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h2 class="contact-title">Get in Touch</h2>
+          <h2 class="contact-title">Neem contact op</h2>
         </div>
         <div class="col-lg-8 mb-4 mb-lg-0" style="">
           <form class="form-contact contact_form" action="https://formspree.io/romian.tairovski@gmail.com"  method="post" required id="contactForm" novalidate="novalidate">
@@ -69,7 +69,7 @@
             <span class="contact-info__icon"><i class="ti-email"></i></span>
             <div class="media-body">
               <h3><a href="mailto:support@colorlib.com">info@friendlytapirs.com</a></h3>
-              <p>Voor prijzen en contact kun je altijd mailen!</p>
+              <p>Vraag een offerte aan of stel een vraag.</p>
             </div>
           </div>
         </div>
