@@ -15,10 +15,8 @@
 						<h5 class="text-uppercase" style="color: #153571;">Betere bereikbaarheid begint online.</h5>
 						<div class="social_icons my-5">
 							<a href="#"><i class="ti-twitter"></i></a>
-							<a href="#"><i class="ti-skype"></i></a>
+							<a href="#"><i class="tib-whatsapp"></i></a>
 							<a href="#"><i class="ti-instagram"></i></a>
-							<a href="#"><i class="ti-dribbble"></i></a>
-							<a href="#"><i class="ti-vimeo"></i></a>
 						</div>
 						<a class="primary_btn" href="portfolio.php"><span>Ons werk</span></a>
 					</div>
@@ -103,95 +101,7 @@
 	</div>
 </section>
 
-<section class="testimonial_area">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="main_title">
-					<p class="top_text">Reviews</p>
-					<h2>Wat vinden onze klanten?<br></h2>
-				</div>
-			</div>
-		</div>
 
-  <div class="owl-carousel owl-theme testimonial-slider ">
-	<div class="testimonial-item">
-	  <div class="row">
-		<div class="col-lg-6">
-		  <div class="testi-img mb-4 mb-lg-0">
-			<img src="img/testimonials/testimonial1.png" alt="">
-		  </div>
-		</div>
-		<div class="col-lg-6">
-		  <div class="testi-right">
-			<h4>Henk Veenstra</h4>
-			<p><small>Eigenaar Autobedrijf Veenstra</small></p>
-
-			<p>In het begin een paar speerpunten meegegeven wat voor ons het belangrijkst was, dit hebben ze goed uitgewerkt en ons het resultaat laten beoordelen. Kleine verbeterpunten werden gelijk aangepast. Al met al super tevreden.</p>
-			<ul class="star_rating mt-4">
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li class="disable"><span><i class="fas fa-star"></i></span></li>                  
-			</ul>
-		  </div>
-		</div>
-	  </div>
-	</div>
-
-	<div class="testimonial-item">
-	  <div class="row">
-		<div class="col-lg-6">
-		  <div class="testi-img mb-4 mb-lg-0">
-			<img src="img/testimonials/testimonial1.png" alt="">
-		  </div>
-		</div>
-		<div class="col-lg-6">
-		  <div class="testi-right">
-			<h4>Roser Henrique</h4>
-			<p><small>Project Manager, Apple</small></p>
-
-			<p>Waters can not replenish hath fly and be to brought isn't very days behold without land every above lights us fruitful wherein divide it him fowl moving may beginning subdue fly waters can't replenish hath fly and be to brought isn't very days behold </p>
-			<ul class="star_rating mt-3">
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li class="disable"><span><i class="fas fa-star"></i></span></li>                  
-			</ul>
-		  </div>
-		</div>
-	  </div>
-	</div>
-
-	<div class="testimonial-item">
-	  <div class="row">
-		<div class="col-lg-6">
-		  <div class="testi-img mb-4 mb-lg-0">
-			<img src="img/testimonials/testimonial1.png" alt="">
-		  </div>
-		</div>
-		<div class="col-lg-6">
-		  <div class="testi-right">
-			<h4>Roser Henrique</h4>
-			<p><small>Project Manager, Apple</small></p>
-
-			<p>Waters can not replenish hath fly and be to brought isn't very days behold without land every above lights us fruitful wherein divide it him fowl moving may beginning subdue fly waters can't replenish hath fly and be to brought isn't very days behold </p>
-			<ul class="star_rating mt-3">
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li><span><i class="fas fa-star"></i></span></li>
-			  <li class="disable"><span><i class="fas fa-star"></i></span></li>                  
-			</ul>
-		  </div>
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-</section>
 <div class="container">
 		<div class="row">
 			<div class="col-lg-12">
