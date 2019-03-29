@@ -28,37 +28,13 @@
 	</div>
 </section>
 
-<section class="statistics_area">
-	<div class="container">
-		<div class="row justify-content-lg-start justify-content-center">
-			<div class="col-lg-2 col-md-3">
-				<div class="statistics_item">
-					<h3><span class="counter">15</span></h3>
-					<p>Blije Klanten</p>
-				</div>
-			</div>
-			<div class="col-lg-2 col-md-3">
-				<div class="statistics_item">
-					<h3><span class="counter">12</span>k+</h3>
-					<p>lijnen code</p>
-				</div>
-			</div>
-			<div class="col-lg-2 col-md-3">
-				<div class="statistics_item">
-					<h3><span class="counter">8.5</span>/10</h3>
-					<p>gemiddelde score</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
 <section class="about_area section_gap">
 	<div class="container">
 		<div class="row justify-content-start align-items-center">
 			<div class="col-lg-5">
 				<div class="about_img">
-					<img class="" src="img/about-us.png" alt="">
+					<img class="" src="img/about-us.png" alt="" style="    height: 407px;
+    width: 681px;">
 				</div>
 			</div>
 			<div class="offset-lg-1 col-lg-5">
