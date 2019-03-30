@@ -26,27 +26,27 @@
               <div class="col-12">
                 <div class="form-group">
 					<input type="hidden" name="_next" />
-                    <textarea class="form-control w-100" name="message" id="message"required  cols="30" rows="9" placeholder="Enter Message"></textarea>
+                    <textarea class="form-control w-100" name="message" id="message"required  cols="30" rows="9" placeholder="Bericht"></textarea>
                 </div>
               </div>
               <div class="col-sm-6">
                 <div class="form-group">
-                  <input class="form-control" name="name" id="name" type="text" required placeholder="Enter your name">
+                  <input class="form-control" name="name" id="name" type="text" required placeholder="Naam">
                 </div>
               </div>
               <div class="col-sm-6">
                 <div class="form-group">
-                  <input class="form-control" name="_replyto" id="email" type="email" required placeholder="Enter email address">
+                  <input class="form-control" name="_replyto" id="email" type="email" required placeholder="Email adres">
                 </div>
               </div>
               <div class="col-12">
                 <div class="form-group">
-                  <input class="form-control" name="_subject" id="subject" type="text" required placeholder="Enter Subject">
+                  <input class="form-control" name="_subject" id="subject" type="text" required placeholder="Onderwerp">
                 </div>
               </div>
             </div>
             <div class="form-group mt-lg-3">
-              <button type="submit" class="primary_btn button-contactForm">Send Message</button>
+              <button type="submit" class="primary_btn button-contactForm">Verstuur bericht</button>
             </div>
           </form>
         </div>
