@@ -63,7 +63,7 @@
 			<div class="col-lg-12">
 				<div class="main_title">
 				<p class="top_text">Diensten </p>
-					<h2>Onze diensten. <br> </h2>
+					<h2>De diensten die wij leveren. <br> </h2>
 				</div>
 			</div>
 		</div>
