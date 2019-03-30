@@ -5,9 +5,11 @@
 			<div class="col-lg-12">
 				<div class="footer_top flex-column">
 					<div class="footer_logo">
-						<a href="#">
-							<img src="img/logo.png" alt=""> <h2 style="color: white;">FriendlyTapirs</h2>
-						</a>
+							<h2 style="color: white;">
+								<img src="img/tapirfooter.png" alt="" style="width: 60px;">
+								 FriendlyTapirs
+							</h2>
+							<span style="color:white; font-size: 18px;">Jouw partner online.</span>
 						<div class="d-lg-block d-none">
 							<nav class="navbar navbar-expand-lg navbar-light justify-content-center" style="background-color: transparent;">
 								<div class="collapse navbar-collapse offset">

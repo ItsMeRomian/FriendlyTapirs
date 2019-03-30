@@ -521,7 +521,8 @@ button.primary_btn {
     font-size: 60px;
     font-weight: 500;
     line-height: 60px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+	width: 700px;
 }
 
 @media (max-width: 767px) {
@@ -4129,7 +4130,7 @@ h6 {
 }
 
 .footer_area {
-    background: #373636;
+    background: #505050;
     padding: 0px 0;
     position: relative
 }
