@@ -14,9 +14,9 @@
 						<h1 class="text-uppercase">wij bouwen websites</h1>
 						<h5 class="text-uppercase" style="color: #153571;">Betere bereikbaarheid begint online.</h5>
 						<div class="social_icons my-5">
-							<a href="#"><i class="ti-twitter"></i></a>
-							<a href="#"><i class="tib-whatsapp"></i></a>
-							<a href="#"><i class="ti-instagram"></i></a>
+							<a href="#"><i class="fab fa-twitter"></i></a>
+							<a href="#"><i class="fab fa-whatsapp-square"></i></a>
+							<a href="#"><i class="fa fa-phone"></i></a>
 						</div>
 						<a class="primary_btn" href="portfolio.php"><span>Ons werk</span></a>
 					</div>
@@ -63,7 +63,7 @@
 			<div class="col-lg-12">
 				<div class="main_title">
 				<p class="top_text">Diensten </p>
-					<h2>Onze diensten. <br> </h2>
+					<h2>De diensten die wij leveren. <br> </h2>
 				</div>
 			</div>
 		</div>
@@ -119,7 +119,7 @@
 				<div class="owl-carousel brand-carousel">
 					<div class="single-brand-item d-table">
 						<div class="d-table-cell">
-							<img src="img/brands/logo1.png" alt="">
+							<img src="img/brands/logo1.png" alt="" >
 						</div>
 					</div>
 					<div class="single-brand-item d-table">

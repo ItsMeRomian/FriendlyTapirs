@@ -1,6 +1,6 @@
 <?php include_once('include/header.php'); ?>
 
-<section class="banner_area ">
+<section class="banner_area section_gap">
   <div class="banner_inner d-flex align-items-center">
 	  <div class="container">
 		  <div class="banner_content text-center">
