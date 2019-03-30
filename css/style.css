@@ -522,7 +522,6 @@ button.primary_btn {
     font-weight: 500;
     line-height: 60px;
     margin-bottom: 20px;
-	width: 700px;
 }
 
 @media (max-width: 767px) {
