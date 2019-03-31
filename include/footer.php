@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
-				<div class="footer_top flex-column">
+				<div class="footer_top flex-column" style="margin-top: 10px;">
 					<div class="footer_logo">
 							<h2 style="color: white;">
 								<img src="img/tapirfooter.png" alt="" style="width: 60px;">
