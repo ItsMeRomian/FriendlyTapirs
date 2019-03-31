@@ -46,7 +46,6 @@ switch ($_SERVER['PHP_SELF']) {
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">
 					<a class="navbar-brand logo_h" href="index"><img src="img/logo.png" alt="" style="margin-right: 10px;"><span style="font-weight: bold;">FriendlyTapirs</span></a>
-					<a class="navbar-brand logo_inner_page" href="index"><img src="img/logo2.png" alt=""></a>      
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="icon-bar"></span>

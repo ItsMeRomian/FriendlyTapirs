@@ -8,7 +8,7 @@
 	<div class="banner_inner">
 		<div class="container section_gap_top">
 			<div class="row align-items-center justify-content-between">
-				<div class="col-lg-6">
+				<div class="col-lg">
 					<div class="banner_content">
 						<h3>FriendlyTapirs</h3>
 						<h1 class="text-uppercase">wij bouwen websites</h1>
@@ -19,11 +19,6 @@
 							<a href="contact.php"><i class="fa fa-envelope"></i></a>
 						</div>
 						<a class="primary_btn" href="portfolio.php"><span>Ons werk</span></a>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="home_right_img">
-						<img class="img-fluid" src="img/banner/home-right.png" alt="">
 					</div>
 				</div>
 			</div>
