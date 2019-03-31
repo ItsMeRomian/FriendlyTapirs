@@ -18,21 +18,11 @@
 		<div class="container-fluid" style="padding: 0px 80px;">
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="main_title">
+					<div class="main_title" style="margin-bottom: 30px;">
 						<p class="top_text">Ons werk </p>
 						<h2>Bekijk onze vorige projecten.</h2>
 					</div>
 				</div>
-			</div>
-
-			<div class="filters portfolio-filter">
-				<ul>
-					<li class="active" data-filter="*">all</li>
-					<li data-filter=".popular">popular</li>
-					<li data-filter=".latest"> latest</li>
-					<li data-filter=".following">following</li>
-					<li data-filter=".upcoming">upcoming</li>
-				</ul>
 			</div>
 
 			<div class="filters-content">
