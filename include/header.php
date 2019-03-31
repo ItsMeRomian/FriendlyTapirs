@@ -50,7 +50,7 @@ switch ($_SERVER['PHP_SELF']) {
 							<li class="nav-item"><a class="nav-link" href="about.php">Over</a></li>
 							<li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-								 aria-expanded="false">Diensten</a>
+								 aria-expanded="false">Diensten<i style="margin-left: 9px;" class="fa fa-angle-down" aria-hidden="true"></i></a>
 								<ul class="dropdown-menu">
 									<li class="nav-item"><a class="nav-link" href="webdev.php">Webontwikkeling</a></li>
 									<li class="nav-item"><a class="nav-link" href="graphicdesign.php">Grafisch design</a></li>
