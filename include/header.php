@@ -1,15 +1,15 @@
 <?php
 switch ($_SERVER['PHP_SELF']) {
-    case "/FriendlyTapirs/index.php":
+    case "/index.php":
         $page = 'Home';
         break;
-    case "/FriendlyTapirs/about.php":
+    case "/about.php":
         $page = 'Over ons';
         break;
-    case "/FriendlyTapirs/portfolio.php":
+    case "/portfolio.php":
         $page = 'Portfolio';
         break;
-	case "/FriendlyTapirs/contact.php":
+	case "/contact.php":
 		$page = 'Contact';
 		break;
 }
