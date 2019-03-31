@@ -6,7 +6,8 @@
 		  <div class="banner_content text-center">
 			  <h2>Webontwikkeling en design</h2>
 			  <div class="page_link">
-				  <a>laat uw online representatie door ons geregeld worden</a>
+				  <a href="index.html">Home</a>
+				  <a href="about.html">Over</a>
 			  </div>
 		  </div>
 	  </div>
