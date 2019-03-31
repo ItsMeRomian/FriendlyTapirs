@@ -12,7 +12,7 @@
 					<div class="banner_content">
 						<h3>FriendlyTapirs</h3>
 						<h1 class="text-uppercase">wij bouwen websites</h1>
-						<h5 class="text-uppercase" style="color: #153571;">Betere bereikbaarheid begint online.</h5>
+						<h5 class="text-uppercase" style="color: #153571;">Een betere bereikbaarheid begint online.</h5>
 						<div class="social_icons my-5">
 							<a href="https://twitter.com/friendlytapirs"><i class="fab fa-twitter"></i></a>
 							<a href="#"><i class="fab fa-whatsapp-square"></i></a>
