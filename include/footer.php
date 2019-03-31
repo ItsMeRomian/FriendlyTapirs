@@ -36,10 +36,6 @@
 		
 	</div>
 </footer>
-<!--================End Footer Area =================-->
-
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/popper.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -47,7 +43,6 @@
 <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
 <script src="vendors/isotope/isotope-min.js"></script>
 <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
-<!--gmaps Js-->
 <script src="js/theme.js"></script>
 </body>
 
