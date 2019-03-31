@@ -4193,3 +4193,9 @@ h6 {
 .footer_area .footer_bottom a {
     color: #a932c7
 }
+.indexlaptop {
+	transition: transform .4s;
+}
+
+.indexlaptop:hover {
+  transform: scale(1.1);

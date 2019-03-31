@@ -31,7 +31,7 @@
 		<div class="row justify-content-start align-items-center">
 			<div class="col-lg-5">
 				<div class="about_img">
-					<img class="" src="img/about-us.png" alt="">
+					<img class="indexlaptop" src="img/about-us.png" alt="">
 				</div>
 			</div>
 			<div class="offset-lg-1 col-lg-5">
