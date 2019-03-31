@@ -4220,3 +4220,11 @@ h6 {
 
 .indexlaptop:hover {
   transform: scale(1.1);
+}
+
+.d-table-cell {
+	transition: transform .4s;
+}
+.d-table-cell:hover {
+	transform: scale(1.1);
+}
