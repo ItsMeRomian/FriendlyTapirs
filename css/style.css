@@ -187,7 +187,7 @@ button.primary_btn {
     }
 }
 
-.gradient-bg,.primary_btn2:before,.navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link,.footer_area .footer_social a:hover {
+.gradient-bg,.primary_btn2:before,.navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
     background: -webkit-linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
     background: -moz-linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
     background: -o-linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
@@ -219,7 +219,7 @@ button.primary_btn {
 
 .primary_btn {
     display: inline-block;
-    background: linear-gradient(to right, #7b7878 0%, #1c53b0 51%, #7b7878 100%);
+    background: linear-gradient(to right, #7b7878 0%, #4D7EA8 51%, #7b7878 100%);
     color: #fff;
     letter-spacing: 0px;
     font-family: "Roboto",sans-serif;
@@ -351,7 +351,7 @@ button.primary_btn {
 }
 
 .navbar .nav .nav-item:hover .nav-link,.navbar .nav .nav-item.active .nav-link {
-    color: #efb6df
+    color: #4D7EA8
 }
 
 .navbar .nav .nav-item.submenu {
@@ -1707,7 +1707,7 @@ button.primary_btn {
 
 @media (min-width: 1000px) {
     .form-contact .form-group {
-        margin-bottom:30px
+       margin-bottom: 15px;
     }
 }
 
@@ -4170,7 +4170,7 @@ h6 {
 }
 
 .footer_area .footer_social a:hover {
-    color: #ffffff
+    color: black
 }
 
 .footer_area .footer_bottom {

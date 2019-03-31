@@ -25,11 +25,10 @@
             <div class="row">
               <div class="col-12">
                 <div class="form-group">
-					<input type="hidden" name="_next" />
-                    <textarea class="form-control w-100" name="message" id="message"required  cols="30" rows="9" placeholder="Bericht"></textarea>
+                  <input class="form-control" name="_subject" id="subject" type="text" required placeholder="Onderwerp">
                 </div>
               </div>
-              <div class="col-sm-6">
+			  <div class="col-sm-6">
                 <div class="form-group">
                   <input class="form-control" name="name" id="name" type="text" required placeholder="Naam">
                 </div>
@@ -41,7 +40,8 @@
               </div>
               <div class="col-12">
                 <div class="form-group">
-                  <input class="form-control" name="_subject" id="subject" type="text" required placeholder="Onderwerp">
+					<input type="hidden" name="_next" />
+                    <textarea class="form-control w-100" name="message" id="message"required  cols="30" rows="9" placeholder="Bericht"></textarea>
                 </div>
               </div>
             </div>

@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
-				<div class="footer_top flex-column">
+				<div class="footer_top flex-column" style="margin-top: 10px;">
 					<div class="footer_logo">
 							<h2 style="color: white;">
 								<img src="img/tapirfooter.png" alt="" style="width: 60px;">
@@ -25,8 +25,10 @@
 					</div>
 					<div class="footer_social mt-lg-0 mt-4">
 						<a href="#"><i class="fab fa-twitter"></i></a>
-						<a href="#"><i class="fab fa-whatsapp"></i></a>
+						<a href="#"><i class="fab fa-whatsapp-square"></i></a>
 						<a href="#"><i class="fa fa-envelope"></i></a>
+						
+						<p style="color: white; font-size: 10px;"><br>&copy; FriendlyTapirs 2016-2019</p>
 					</div>
 				</div>
 			</div>
