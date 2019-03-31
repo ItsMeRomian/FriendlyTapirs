@@ -14,7 +14,7 @@
   </div>
 </section>
 
-<section class="about_area section_gap_bottom" >
+<section class="about_area section_gap_bottom" style="padding-top: 40px;">
 <div class="container-fluid">
 	<div class="row justify-content-start align-items-center">
 		<div class=" col-lg-1"></div>
@@ -32,9 +32,9 @@
 				</p>
 			</div>
 		</div>
-		<div class="col-lg-5" style="border:solid;">
+		<div class="col-lg-5" >
 			<div class="about_img" style="right: unset;">
-				<img class="" src="img/about-us.png" alt="" style="    float: right;">
+				<img class="" src="img/webdev.jpg" alt="" style="    float: right;">
 			</div>
 		</div>
 	</div>
