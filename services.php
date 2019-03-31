@@ -45,15 +45,12 @@
 	<div class="row justify-content-start align-items-center">
 		<div class=" col-lg-5">
 			<div class="main_title text-left">
-				<p class="top_text">YOURI PESSINK</p>
+				<p class="top_text">Grafisch ontwerp</p>
 				<h2>
-					Creative Art Director <br>
-					And Designer
+					Passendere vormgeving bij uw brand identity? 
 				</h2>
 				<p>
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					De visuele representatie van uw bedrijf is erg belangrijk. Wij werken met grafisch designers die weten wat ze doen.
 				</p>
 			</div>
 		</div>
