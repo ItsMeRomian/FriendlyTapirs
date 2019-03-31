@@ -25,7 +25,7 @@
 					</div>
 					<div class="footer_social mt-lg-0 mt-4">
 						<a href="#"><i class="fab fa-twitter"></i></a>
-						<a href="#"><i class="fab fa-whatsapp-square"></i></a>
+						<a href="#"><i class="fab fa-whatsapp"></i></a>
 						<a href="#"><i class="fa fa-envelope"></i></a>
 						
 						<p style="color: white; font-size: 10px;"><br>&copy; FriendlyTapirs 2016-2019</p>
@@ -51,7 +51,6 @@
 <script src="js/mail-script.js"></script>
 <!--gmaps Js-->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
-<script src="js/gmaps.min.js"></script>
 <script src="js/theme.js"></script>
 </body>
 
