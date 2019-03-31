@@ -6,8 +6,8 @@
 		  <div class="banner_content text-center">
 			  <h2>Webontwikkeling en design</h2>
 			  <div class="page_link">
-				  <a href="index.html">Home</a>
-				  <a href="about.html">Over</a>
+				  <a href="index.html">Diensten</a>
+				  <a href="about.html">Webontwikkeling</a>
 			  </div>
 		  </div>
 	  </div>
@@ -21,8 +21,7 @@
 		<div class=" col-lg-5">
 			<div class="main_title text-left">
 				<h2>
-					grote title <br>
-					And Designer
+				Webontwikkeling
 				</h2>
 				<p class="text-justify">
 					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
@@ -53,8 +52,7 @@
 		<div class="offset-lg-1 col-lg-5">
 			<div class="main_title text-left" style="margin-top: -85px;">
 				<h2>
-					d dry all darkness then fourth
-					
+				Kwaliteit met een passende prijs
 				</h2>
 				<p class="text-justify">
 					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
