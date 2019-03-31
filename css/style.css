@@ -583,7 +583,7 @@ button.primary_btn {
 
 @media (max-width: 1199px) {
     .banner_area .banner_inner {
-        min-height:350px
+        min-height: 270px;
     }
 }
 

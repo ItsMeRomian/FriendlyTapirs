@@ -15,7 +15,7 @@
   </section>
 
 	<section class="portfolio_area section-margin pb-0" id="portfolio">
-		<div class="container">
+		<div class="container-fluid" style="padding: 0px 80px;">
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="main_title">
