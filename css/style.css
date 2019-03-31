@@ -4193,6 +4193,27 @@ h6 {
 .footer_area .footer_bottom a {
     color: #a932c7
 }
+.portfolio_image {
+	box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+	transition: box-shadow 0.2s ease-in-out;
+}
+.portfolio_image:hover {
+	box-shadow: 11px 11px 5px rgba(0,0,0,0.3);
+}
+.iffy {
+	background-image: url('https://via.placeholder.com/350');
+	height: 100%;
+	transition: transform .4s;
+}
+.iffy:hover {
+	transform: scale(1.05);
+}
+
+#item { display: none; }
+#item1 { display: none; }
+#item2 { display: none; }
+#item3 { display: none; }
+
 .indexlaptop {
 	transition: transform .4s;
 }
