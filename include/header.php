@@ -48,7 +48,15 @@ switch ($_SERVER['PHP_SELF']) {
 						<ul class="nav navbar-nav menu_nav">
 							<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
 							<li class="nav-item"><a class="nav-link" href="about.php">Over</a></li>
-							<li class="nav-item"><a class="nav-link" href="services.php">Diensten</a></li>
+							<li class="nav-item submenu dropdown">
+								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+								 aria-expanded="false">Diensten</a>
+								<ul class="dropdown-menu">
+									<li class="nav-item"><a class="nav-link" href="webdev.php">Webontwikkeling</a></li>
+									<li class="nav-item"><a class="nav-link" href="graphicdesign.php">Grafisch design</a></li>
+									<li class="nav-item"><a class="nav-link" href="hosting.php">Domeinen en webhosting</a></li>
+								</ul>
+							</li>
 							<li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
 							<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 						</ul>
