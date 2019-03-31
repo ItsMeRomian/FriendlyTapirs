@@ -48,6 +48,7 @@ switch ($_SERVER['PHP_SELF']) {
 						<ul class="nav navbar-nav menu_nav">
 							<li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
 							<li class="nav-item"><a class="nav-link" href="about.php">Over</a></li>
+							<li class="nav-item"><a class="nav-link" href="services.php">Diensten</a></li>
 							<li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
 							<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 						</ul>
