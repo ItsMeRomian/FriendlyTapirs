@@ -12,6 +12,15 @@ switch ($_SERVER['PHP_SELF']) {
 	case "/contact.php":
 		$page = 'Contact';
 		break;
+	case "/webdev.php":
+		$page = 'Webdevelopment';
+		break;
+	case "/graphicdesign.php":
+		$page = 'Grafisch design';
+		break;
+	case "/hosting.php":
+		$page = 'Domeinen en Hosting';
+		break;
 }
 ?>
 <!doctype html>
