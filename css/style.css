@@ -599,14 +599,19 @@ button.primary_btn {
         margin-left:0px
     }
 }
-
+@media (min-width: 768px) {
+	.banner_content_h2 {
+		margin-left: 0px!important;
+		margin-top: 100px!important;
+	}
+}
 .banner_area .banner_inner .banner_content h2 {
     color: #fff;
     font-size: 45px;
     font-family: "Roboto",sans-serif;
     margin-bottom: 10px;
     text-transform: uppercase;
-    font-weight: 700
+    font-weight: 700;
 }
 
 @media (max-width: 991px) {
