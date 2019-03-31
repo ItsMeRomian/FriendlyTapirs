@@ -1,24 +1,24 @@
 <?php
 switch ($_SERVER['PHP_SELF']) {
-    case "/index":
+    case "/index.php":
         $page = 'Home';
         break;
-    case "/about":
+    case "/about.php":
         $page = 'Over ons';
         break;
-    case "/portfolio":
+    case "/portfolio.php":
         $page = 'Portfolio';
         break;
-	case "/contact":
+	case "/contact.php":
 		$page = 'Contact';
 		break;
-	case "/webdev":
+	case "/webdev.php":
 		$page = 'Webdevelopment';
 		break;
-	case "/graphicdesign":
+	case "/graphicdesign.php":
 		$page = 'Grafisch design';
 		break;
-	case "/hosting":
+	case "/hosting.php":
 		$page = 'Domeinen en Hosting';
 		break;
 }
