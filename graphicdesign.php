@@ -3,7 +3,7 @@
 <section class="banner_area">
   <div class="banner_inner d-flex align-items-center">
 	  <div class="container">
-		  <div class="banner_content text-center">
+		  <div class="banner_content text-center banner_content_h2">
 			  <h2>grafisch design</h2>
 			  <div class="page_link">
 				  <a>Also signs his face were digns fish don</a>

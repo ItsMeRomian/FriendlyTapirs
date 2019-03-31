@@ -3,7 +3,7 @@
 <section class="banner_area">
   <div class="banner_inner d-flex align-items-center">
 	  <div class="container">
-		  <div class="banner_content text-center">
+		  <div class="banner_content text-center banner_content_h2">
 			  <h2>Domein en hosting</h2>
 			  <div class="page_link">
 				  <a>wij zorgen dat u bedrijf 24/7 online is</a>
