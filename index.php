@@ -4,9 +4,9 @@
 	background: transparent;
 }
 </style>
-<section class="home_banner_area">
+<section class="home_banner_area ">
 	<div class="banner_inner">
-		<div class="container">
+		<div class="container section_gap_top">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6">
 					<div class="banner_content">
