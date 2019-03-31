@@ -145,6 +145,11 @@
 					<div class="single-brand-item d-table">
 						<div class="d-table-cell">
 							<img src="img/brands/logo6.png" alt="">
+					</div>
+					<div class="single-brand-item d-table">
+						<div class="d-table-cell">
+							<img src="img/brands/logo7.png" alt="">
+						</div>
 						</div>
 					</div>
 				</div>
