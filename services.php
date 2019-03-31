@@ -25,15 +25,12 @@
 
 		<div class="offset-lg-1 col-lg-5">
 			<div class="main_title text-left" style="margin-top: -85px;">
-				<p class="top_text">ROMIAN TAIROVSKI</p>
+				<p class="top_text">Webontwikkeling</p>
 				<h2>
-					Web and Application Developer
-					
+					Een nieuwe website.
 				</h2>
 				<p>
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					De online representatie van een bedrijf is erg belangrijk. Wij proberen een zo goed mogelijke website voor u te bouwen.
 				</p>
 				
 			</div>
