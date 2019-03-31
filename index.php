@@ -78,7 +78,7 @@
 					<img src="img/services/s2.png" alt="">
 					<h4>Grafisch Ontwerp</h4>
 					<p>De visuele representatie van uw bedrijf is ook van ongekend belang, niet alleen omdat het professioneel oogt. Maar ook omdat je een bepaald beeld wilt koppelen aan je bedrijf. </p>
-					<a href="https://friendlytapirs.nl/graphicdesign class="primary_btn2 mt-35">Learn More</a>
+					<a href="https://friendlytapirs.nl/graphicdesign" class="primary_btn2 mt-35">Learn More</a>
 				</div>
 			</div>
 
