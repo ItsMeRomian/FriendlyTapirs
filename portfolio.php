@@ -19,8 +19,8 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="main_title">
-						<p class="top_text">Our Portfolio </p>
-						<h2>Check our recent work </h2>
+						<p class="top_text">Ons werk </p>
+						<h2>Bekijk onze vorige projecten.</h2>
 					</div>
 				</div>
 			</div>
