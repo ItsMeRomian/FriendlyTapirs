@@ -69,7 +69,7 @@
 					<img src="img/services/s1.png" alt="">
 					<h4>Webontwikkeling</h4>
 					<p>De online representatie van uw bedrijf is in dit digitale tijdperk ongelofelijk belangrijk. </p>
-					<a href="#" class="primary_btn2 mt-35">Learn More</a>
+					<a href="https://friendlytapirs.nl/webdev" class="primary_btn2 mt-35">Learn More</a>
 				</div>
 			</div>
 
