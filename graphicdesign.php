@@ -20,15 +20,10 @@
 		<div class=" col-lg-5">
 			<div class="main_title text-left">
 				<h2>
-					grote title <br>
-					And Designer
+					Brand Identity
 				</h2>
 				<p class="text-justify">
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					De brand identity is voor een bedrijf erg belangrijk. Hoe wilt u dat uw klanten het bedrijf zien? Wat straalt jullie bedrijf nou uit? FriendlyTapirs is ervaren op het gebied van Grafisch ontwerp en kan uw ideeën precies uitwerken.
 				</p>
 			</div>
 		</div>
