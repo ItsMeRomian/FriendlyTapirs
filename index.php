@@ -64,34 +64,40 @@
 		</div>
 		
 		<div class="row">
-			<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-				<div class="service_item">
-					<img src="img/services/s1.png" alt="">
-					<h4>Webontwikkeling</h4>
-					<p>De online representatie van uw bedrijf is in dit digitale tijdperk ongelofelijk belangrijk. </p>
-					<a href="https://friendlytapirs.nl/webdev" class="primary_btn2 mt-35">Learn More</a>
+			<a href="webdev" style="text-decoration: none; color: #797979;">
+				<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+					<div class="service_item">
+						<img src="img/services/s1.png" alt="">
+						<h4>Webontwikkeling</h4>
+						<p>De online representatie van uw bedrijf is in dit digitale tijdperk ongelofelijk belangrijk. </p>
+						<a href="https://friendlytapirs.nl/webdev" class="primary_btn2 mt-35">Learn More</a>
+					</div>
 				</div>
-			</div>
+			</a>
 
-			<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-				<div class="service_item">
-					<img src="img/services/s2.png" alt="">
-					<h4>Grafisch Ontwerp</h4>
-					<p>De visuele representatie van uw bedrijf is ook van ongekend belang, niet alleen omdat het professioneel oogt. Maar ook omdat je een bepaald beeld wilt koppelen aan je bedrijf. </p>
-					<a href="https://friendlytapirs.nl/graphicdesign" class="primary_btn2 mt-35">Learn More</a>
+			<a href="graphicdesign" style="text-decoration: none; color: #797979;">
+				<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+					<div class="service_item">
+						<img src="img/services/s2.png" alt="">
+						<h4>Grafisch Ontwerp</h4>
+						<p>De visuele representatie van uw bedrijf is ook van ongekend belang, niet alleen omdat het professioneel oogt. Maar ook omdat je een bepaald beeld wilt koppelen aan je bedrijf. </p>
+						<a href="https://friendlytapirs.nl/graphicdesign" class="primary_btn2 mt-35">Learn More</a>
+					</div>
 				</div>
-			</div>
+			</a>
 
-			<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-				<div class="service_item">
-					<img src="img/services/s3.png" alt="">
-					<h4>Domeinregistratie & Webhosting</h4>
-					<p>het adres van uw website is misschien wel het aller belangrijkste voor uw online bereikbaarheid. 
-					<br>
-					De hosting van websites kan soms erg prijzig zijn , wij bij FriendlyTapirs proberen dit zo goedkoop mogelijk aan te bieden.</p>
-					<a href="https://friendlytapirs.nl/hosting" class="primary_btn2 mt-35">Learn More</a>
+			<a href="hosting" style="text-decoration: none; color: #797979;">
+				<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+					<div class="service_item">
+						<img src="img/services/s3.png" alt="">
+						<h4>Domeinregistratie & Webhosting</h4>
+						<p>het adres van uw website is misschien wel het aller belangrijkste voor uw online bereikbaarheid. 
+						<br>
+						De hosting van websites kan soms erg prijzig zijn , wij bij FriendlyTapirs proberen dit zo goedkoop mogelijk aan te bieden.</p>
+						<a href="https://friendlytapirs.nl/hosting" class="primary_btn2 mt-35">Learn More</a>
+					</div>
 				</div>
-			</div>
+			</a>
 		</div>
 	</div>
 </section>
