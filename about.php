@@ -32,7 +32,7 @@
 				</h2>
 				<p>
 				Romian is onze main webdeveloper, hij is ervaren met verschillende programmeertalen die in combinatie voor een erg mooi resultaat zorgen.
-				Hij zorgt ervoor dat al onze websites interactief zijn zodat ze op elk apparaat even mooi en toegankelijk zijn.
+				Ook zorgt hij ervoor dat al onze websites interactief zijn zodat ze op elk apparaat even mooi en toegankelijk zijn.
 				</p>
 			</div>
 		</div>
