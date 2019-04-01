@@ -6,7 +6,7 @@
 		  <div class="banner_content text-center banner_content_h2">
 			  <h2>grafisch design</h2>
 			  <div class="page_link">
-				  <a>Also signs his face were digns fish don</a>
+				  <a>Een huisstijl die echt bij u past.</a>
 			  </div>
 		  </div>
 	  </div>
@@ -23,7 +23,7 @@
 					Brand Identity
 				</h2>
 				<p class="text-justify">
-					De brand identity is voor een bedrijf erg belangrijk. Hoe wilt u dat uw klanten het bedrijf zien? Wat straalt jullie bedrijf nou uit? FriendlyTapirs is ervaren op het gebied van Grafisch ontwerp en kan uw ideeën precies uitwerken.
+					De brand identity is voor een bedrijf erg belangrijk. Hoe wilt u dat uw klanten het bedrijf zien? Wat moet jullie bedrijf uistralen? FriendlyTapirs is ervaren op het gebied van Grafisch ontwerp en kan uw ideeën precies uitwerken.
 				</p>
 			</div>
 		</div>
