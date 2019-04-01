@@ -4,7 +4,7 @@
   <div class="banner_inner d-flex align-items-center">
 	  <div class="container">
 		  <div class="banner_content text-center banner_content_h2">
-			  <h2>grafisch design</h2>
+			  <h2>grafisch ontwerp</h2>
 			  <div class="page_link">
 				  <a>Een huisstijl die echt bij u past.</a>
 			  </div>
@@ -50,7 +50,7 @@
 				Online en Offline
 				</h2>
 				<p class="text-justify">
-					Friendlytapirs richt zich op beide vlakken van het grafisch design. <br>
+					Friendlytapirs richt zich op beide vlakken van het grafisch ontwerp. <br>
 					Online zorgen we voor een mooie huisstijl, een sterk logo en aantrekkelijke advertenties.<br>
 					Offline zorgen we voor posters, visitekaartjes en folders.<br>
 					Op bijna elk vlak kunnen we uit de voeten dus mocht het door u gezochte onderdeel er niet tussen staan stuur gerust een mail!
