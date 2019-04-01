@@ -51,9 +51,7 @@
 					And Designer
 				</h2>
 				<p>
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+				Youri is onze Grafisch ontwerper, hij werkt met Adobe Photoshop en Adobe Illustrator om een zo strak mogelijk resultaat neer te zetten voor de klant.
 				</p>
 			</div>
 		</div>
