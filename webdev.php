@@ -23,11 +23,7 @@
 				Webontwikkeling
 				</h2>
 				<p class="text-justify">
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					Een website is voor een bedrijf belangrijk voor de online zichtbaarheid en naamsbekendheid. FriendlyTapirs kan hierin een belangrijke rol spelen door uw website te voorzien van een duidelijk ontwerp die zowel op de computer als mobiele apparaten zichtbaar is.
 				</p>
 			</div>
 		</div>
@@ -54,13 +50,7 @@
 				Kwaliteit met een passende prijs
 				</h2>
 				<p class="text-justify">
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					Wij leveren onze diensten in verschillende pakketten , zo is er voor een simpele website minder werk nodig dan voor een uitgebreide website met mogelijkheid tot webshop. Dit scheelt de klant geld en ons overbodige moeite.
 				</p>
 				
 			</div>
