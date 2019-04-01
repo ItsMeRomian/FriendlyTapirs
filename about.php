@@ -30,11 +30,9 @@
 					
 				</h2>
 				<p>
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+				Romian is onze main webdeveloper, hij is ervaren met verschillende programmeertalen die in combinatie voor een erg mooi resultaat zorgen.
+				Hij zorgt ervoor dat al onze websites interactief zijn zodat ze op elk apparaat even mooi en toegankelijk zijn.
 				</p>
-				
 			</div>
 		</div>
 	</div>
