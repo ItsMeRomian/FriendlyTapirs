@@ -23,7 +23,7 @@
 					Brand Identity
 				</h2>
 				<p class="text-justify">
-					De brand identity is voor een bedrijf erg belangrijk. Hoe wilt u dat uw klanten het bedrijf zien? Wat moet jullie bedrijf uistralen? FriendlyTapirs is ervaren op het gebied van Grafisch ontwerp en kan uw ideeën precies uitwerken.
+					De brand identity is voor een bedrijf erg belangrijk. Hoe wilt u dat uw klanten het bedrijf zien? Wat moet jullie bedrijf uistralen? Herhaling en herkenning is tenslotte de kracht van de reclame.  FriendlyTapirs is ervaren op het gebied van Grafisch ontwerp en kan uw ideeën precies uitwerken.
 				</p>
 			</div>
 		</div>
@@ -47,17 +47,10 @@
 		<div class="offset-lg-1 col-lg-5">
 			<div class="main_title text-left" style="margin-top: -85px;">
 				<h2>
-					d dry all darkness then fourth
-					
+				Online en Offline
 				</h2>
 				<p class="text-justify">
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					Friendlytapirs richt zich op beide vlakken van het grafisch design. Online zorgen we voor een mooie huisstijl, een sterk logo en aantrekkelijke advertenties. Offline zorgen we voor posters, visitekaartjes en folders. Staat wat u zocht er niet bij? Geen probleem stuur gerust een mail.
 				</p>
 				
 			</div>
