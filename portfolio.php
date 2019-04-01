@@ -51,17 +51,21 @@
               <div class="banner_content text-center banner_content_h2">
                   <h2>Portfolio</h2>
                   <div class="page_link">
-                      <a href="index.html">Home</a>
-                      <a href="portfolio.html">Portfolio</a>
+                      <a>ons vorige werk op een rijtje</a>
                   </div>
               </div>
           </div>
       </div>
   </section>
     
-	<section class="portfolio_area section-margin pb-0" id="portfolio">
+	<section class="portfolio_area pb-0" id="portfolio" style="padding-top: 40px;">
 		<div class="container-fluid" style="padding: 0px 80px;">
-			<div class="row" style="height: 350px;;">
+			<div class="row justify-content-start align-items-center">
+				<div class="col main_title">
+				<h2>title</h2>
+				</div>
+			</div>
+			<div class="row" style="">
 				<div class="col-lg " >
 					<div class="col iffy portfolio_image " id="show_hide"class="portfolio_image" ></div>
 				</div>

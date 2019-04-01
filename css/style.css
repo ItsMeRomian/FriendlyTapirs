@@ -457,7 +457,7 @@ button.primary_btn {
 }
 
 .home_banner_area {
-    background: url(../img/banner/home-banner.jpg) no-repeat top center;
+    background: url(../img/banner/home-banner.jpg) no-repeat fixed center;
     background-position: center;
     background-size: cover;
     min-height: 890px
@@ -4207,9 +4207,11 @@ h6 {
 	box-shadow: 11px 11px 5px rgba(0,0,0,0.3);
 }
 .iffy {
-	background-image: url('https://via.placeholder.com/350');
+	background: url("https://via.placeholder.com/350") no-repeat  center;
 	height: 100%;
 	transition: transform .4s;
+	height: 350px;
+	margin-bottom: 20px;
 }
 .iffy:hover {
 	transform: scale(1.05);
@@ -4233,4 +4235,10 @@ h6 {
 }
 .d-table-cell:hover {
 	transform: scale(1.1);
+}
+
+.menutitle {
+	font-weight: 100;
+	letter-spacing: 1px;
+	text-transform: uppercase !important;
 }

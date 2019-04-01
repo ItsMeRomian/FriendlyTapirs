@@ -6,8 +6,7 @@
 		  <div class="banner_content text-center banner_content_h2">
 			  <h2>Webontwikkeling</h2>
 			  <div class="page_link">
-				  <a href="index.html">Diensten</a>
-				  <a href="about.html">Webontwikkeling</a>
+				  <a>uw website of webapp uitgewerkt tot perfectie</a>
 			  </div>
 		  </div>
 	  </div>

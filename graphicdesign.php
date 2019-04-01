@@ -13,7 +13,7 @@
   </div>
 </section>
 
-<section class="about_area section_gap_bottom" >
+<section class="about_area section_gap_bottom" style="padding-top: 40px;">
 <div class="container-fluid">
 	<div class="row justify-content-start align-items-center">
 		<div class=" col-lg-1"></div>
