@@ -50,7 +50,9 @@
 				Online en Offline
 				</h2>
 				<p class="text-justify">
-					Friendlytapirs richt zich op beide vlakken van het grafisch design. Online zorgen we voor een mooie huisstijl, een sterk logo en aantrekkelijke advertenties. Offline zorgen we voor posters, visitekaartjes en folders. Staat wat u zocht er niet bij? Geen probleem stuur gerust een mail.
+					Friendlytapirs richt zich op beide vlakken van het grafisch design. <br>
+					Online zorgen we voor een mooie huisstijl, een sterk logo en aantrekkelijke advertenties.<br>
+					Offline zorgen we voor posters, visitekaartjes en folders. Staat wat u zocht er niet bij? Geen probleem stuur gerust een mail.
 				</p>
 				
 			</div>
