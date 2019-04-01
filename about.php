@@ -6,8 +6,7 @@
 		  <div class="banner_content text-center banner_content_h2">
 			  <h2>Ons Team</h2>
 			  <div class="page_link">
-				  <a href="index.html">Home</a>
-				  <a href="about.html">Over</a>
+				  <a>intro text about</a>
 			  </div>
 		  </div>
 	  </div>
