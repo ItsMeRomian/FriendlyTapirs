@@ -20,11 +20,11 @@
 	  <h2 class="contact-title">Neem contact op</h2>
 	</div>
 	<div class="col-lg-8 mb-4 mb-lg-0" style="">
-	  <form class="form-contact contact_form" action="https://formspree.io/romian.tairovski@gmail.com"  method="post" required id="contactForm" novalidate="novalidate">
+	  <form class="form-contact contact_form" action="mailer.php"  method="post" required id="contactForm" novalidate="novalidate">
 		<div class="row">
 		  <div class="col-12">
 			<div class="form-group">
-			  <input class="form-control" name="_subject" id="subject" type="text" required placeholder="Onderwerp">
+			  <input class="form-control" name="subject" id="subject" type="text" required placeholder="Onderwerp">
 			</div>
 		  </div>
 		  <div class="col-sm-6">
@@ -34,7 +34,7 @@
 		  </div>
 		  <div class="col-sm-6">
 			<div class="form-group">
-			  <input class="form-control" name="_replyto" id="email" type="email" required placeholder="Email adres">
+			  <input class="form-control" name="email" id="email" type="email" required placeholder="Email adres">
 			</div>
 		  </div>
 		  <div class="col-12">
