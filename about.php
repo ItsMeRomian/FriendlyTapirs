@@ -26,8 +26,7 @@
 			<div class="main_title text-left" style="margin-top: -85px;">
 				<p class="top_text">ROMIAN TAIROVSKI</p>
 				<h2>
-					Web and Application Developer
-					
+					Web and Application Developer.
 				</h2>
 				<p>
 				Romian is onze main webdeveloper, hij is ervaren met verschillende programmeertalen die in combinatie voor een erg mooi resultaat zorgen.
@@ -48,7 +47,7 @@
 				<p class="top_text">YOURI PESSINK</p>
 				<h2>
 					Creative Art Director <br>
-					And Designer
+					And Designer.
 				</h2>
 				<p>
 				Youri is onze Grafisch ontwerper, hij werkt met Adobe Photoshop en Adobe Illustrator om een zo strak mogelijk resultaat neer te zetten voor de klant.
