@@ -23,7 +23,9 @@
 				Webontwikkeling
 				</h2>
 				<p class="text-justify">
-					Een website is voor een bedrijf belangrijk voor de online zichtbaarheid en naamsbekendheid. FriendlyTapirs kan hierin een belangrijke rol spelen door uw website te voorzien van een duidelijk ontwerp die zowel op de computer als mobiele apparaten zichtbaar is.
+					Een website is voor een bedrijf belangrijk voor de online zichtbaarheid en naamsbekendheid. 
+					FriendlyTapirs kan hierin een belangrijke rol spelen door uw website te voorzien van een duidelijk ontwerp 
+					die zowel op de computer als mobiele apparaten zichtbaar is.
 				</p>
 			</div>
 		</div>

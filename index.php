@@ -14,9 +14,9 @@
 						<h1 class="text-uppercase">wij bouwen websites</h1>
 						<h5 class="text-uppercase" style="color: #153571;">Een betere bereikbaarheid begint online.</h5>
 						<div class="social_icons my-5">
-							<a href="https://twitter.com/friendlytapirs"><i class="fab fa-twitter"></i></a>
-							<a href="#"><i class="fab fa-whatsapp"></i></a>
-							<a href="contact.php"><i class="fa fa-envelope"></i></a>
+							<a target="_BLANK" href="https://twitter.com/friendlytapirs"><i class="fab fa-twitter"></i></a>
+							<a target="_BLANK" href="https://api.whatsapp.com/send?phone=31687207307&text&source&data"><i class="fab fa-whatsapp"></i></a>
+							<a target="_BLANK" href="contact.php"><i class="fa fa-envelope"></i></a>
 						</div>
 						<a class="primary_btn" href="portfolio.php"><span>Ons werk</span></a>
 					</div>
@@ -92,8 +92,10 @@
 						<img src="img/services/s3.png" alt="">
 						<h4>Domeinregistratie & Webhosting</h4>
 						<p>het adres van uw website is misschien wel het aller belangrijkste voor uw online bereikbaarheid. 
-						<br>
-						De hosting van websites kan soms erg prijzig zijn , wij bij FriendlyTapirs proberen dit zo goedkoop mogelijk aan te bieden.</p>
+							<br>
+							De hosting van websites kan soms erg prijzig zijn , wij bij FriendlyTapirs proberen dit zo goedkoop 
+							mogelijk aan te bieden.
+						</p>
 						<a href="https://friendlytapirs.nl/hosting" class="primary_btn2 mt-35">Learn More</a>
 					</div>
 				</div>

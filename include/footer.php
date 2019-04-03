@@ -24,9 +24,9 @@
 						</div>
 					</div>
 					<div class="footer_social mt-lg-0 mt-4">
-						<a href="#"><i class="fab fa-twitter"></i></a>
-						<a href="#"><i class="fab fa-whatsapp"></i></a>
-						<a href="#"><i class="fa fa-envelope"></i></a>
+						<a target="_BLANK"href="https://twitter.com/friendlytapirs"><i class="fab fa-twitter"></i></a>
+						<a target="_BLANK"href="https://api.whatsapp.com/send?phone=31687207307&text&source&data"><i class="fab fa-whatsapp"></i></a>
+						<a target="_BLANK"href="contact.php"><i class="fa fa-envelope"></i></a>
 						
 						<p style="color: white; font-size: 10px;"><br>&copy; FriendlyTapirs 2016-2019</p>
 					</div>

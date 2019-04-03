@@ -20,15 +20,12 @@
 		<div class=" col-lg-5">
 			<div class="main_title text-left">
 				<h2>
-					grote title <br>
-					And Designer
+					Een domein die uw klant nooit vergeet.
 				</h2>
 				<p class="text-justify">
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					Als u FriendlyTapirs uw domein laat registreren, zorgen wij ervoor dat deze gekoppelt word aan uw site en mail.
+					Zo hoeft u geen onprofessionele services te gebruiken zoals gmail of hotmail. U kunt uw favoriete mailapp nog steeds
+					gebruiken en klanten kunne u gemakkelijk vinden op Google.
 				</p>
 			</div>
 		</div>
@@ -51,18 +48,11 @@
 
 		<div class="offset-lg-1 col-lg-5">
 			<div class="main_title text-left" style="margin-top: -85px;">
-				<h2>
-					d dry all darkness then fourth
-					
-				</h2>
+				<h2>Hosting pakketten op maat.</h2>
 				<p class="text-justify">
-					Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-					moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-					his face
+					Of u nou 10 verschillende paginas nodig heeft of 100, FriendlyTapirs zorgt dat uw klanten langer hoeven te wachten
+					dan een seconde voordat de pagina is geladen. Wij zorgen ervoor dat uw bestanden veilig en snel aankomen bij uw klanten.
+					Doormiddel van een SSL beveiliging en SSD opslag kunnen wij dit realiseren. 
 				</p>
 				
 			</div>

@@ -62,7 +62,7 @@
 		<div class="container-fluid" style="padding: 0px 80px;">
 			<div class="row justify-content-start align-items-center">
 				<div class="col main_title">
-				<h2>title</h2>
+				<h2>Onze vorige projecten.</h2>
 				</div>
 			</div>
 			<div class="row" style="">
@@ -81,18 +81,17 @@
 			</div>
 			<br>
 			<div class="row">
-				<div class="col" id="item">
-					<h2>Title 1</h2>
-					<p>Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-							moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-							his faceAlso signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
-							moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
-							his face
+				<div class="col-6" id="item">
+					<h2>TipTopIbiza.com</h2>
+					<p>In samenwerking met TipTopIbiza zijn wij begonnen met een volledige redesign van de website. 
+					Van concept tot eindproduct. In totaal zijn er 14 verschillende, op maat gemaakte paginas gemaakt. ook heeft het 
+					logo van het bedrijf een herdesign gekregen en zijn er nieuwe huiskleuren gekozen. Het eindproduct is een responsive
+					website met een database voor klantendata.
 					</p>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col" id="item1">
+				<div class="col-6" id="item1">
 					<h2>Title 2</h2>
 					<p>Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
 							moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
@@ -103,7 +102,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col" id="item2">
+				<div class="col-6" id="item2">
 					<h2>Title 3</h2>
 					<p>Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
 							moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
@@ -114,7 +113,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col" id="item3">
+				<div class="col-6" id="item3">
 					<h2>Title 4</h2>
 					<p>Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering
 							moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs
