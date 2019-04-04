@@ -6,7 +6,7 @@
 		  <div class="banner_content text-center banner_content_h2">
 			  <h2>Contact</h2>
 			  <div class="page_link">
-				  <a>contact ons intro text</a>
+				  <a>Kom op de digitale koffie.</a>
 			  </div>
 		  </div>
 	  </div>
@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
 	<div class="col-12">
-	  <h2 class="contact-title">Neem contact op</h2>
+	  <h2 class="contact-title">Neem contact met ons op</h2>
 	</div>
 	<div class="col-lg-8 mb-4 mb-lg-0" style="">
 	  <form class="form-contact contact_form" action="mailer.php"  method="post" required id="contactForm" novalidate="novalidate">
@@ -60,15 +60,16 @@
 	  <div class="media contact-info">
 		<span class="contact-info__icon"><i class="ti-tablet"></i></span>
 		<div class="media-body">
-		  <h3><a href="tel:454545654">(plus drie een zes) 374 434 46</a></h3>
-		  <p>elke dag van 10:00 tot 23:00</p>
+		  <h3><a href="tel:454545654">06 872 073 07</a></h3>
+		  <p>24/7 Bereikbaar via WhatsApp <br>
+			Voor een snel antwoord op al u vragen.</p>
 		</div>
 	  </div>
 	  <div class="media contact-info">
 		<span class="contact-info__icon"><i class="ti-email"></i></span>
 		<div class="media-body">
 		  <h3><a href="mailto:support@colorlib.com">info@friendlytapirs.com</a></h3>
-		  <p>Vraag een offerte aan of stel een vraag.</p>
+		  <p>Vraag een offerte aan.</p>
 		</div>
 	  </div>
 	</div>
