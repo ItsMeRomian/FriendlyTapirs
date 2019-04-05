@@ -30,7 +30,7 @@
 			</div>
 		</div>
 		<div class="col-lg-5" >
-			<div class="about_img" style="right: unset;">
+			<div class="about_img bounce05" style="right: unset;">
 				<img class="" src="img/webdev.jpg" alt="" style="    float: right;">
 			</div>
 		</div>
@@ -41,7 +41,7 @@
 <div class="container-fluid">
 	<div class="row justify-content-start align-items-center">
 		<div class="col-lg-5">
-			<div class="about_img">
+			<div class="about_img bounce05">
 				<img class="" src="img/webdev33.jpg" alt="" style="    float: right;">
 			</div>
 		</div>

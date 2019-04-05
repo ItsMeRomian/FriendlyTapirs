@@ -579,7 +579,7 @@ button.primary_btn {
     min-height: 320px;
     background: url(../img/banner/common-banner.png) no-repeat right bottom;
     background-size: cover;
-    z-index: 1;
+    z-index: 1
 	transition: transform .4s;
 
 }
@@ -4248,9 +4248,15 @@ h6 {
 	text-transform: uppercase !important;
 }
 
-@media (min-width: 768px) {
-	.banner_inner {
-		transition: transform .4s;
-	}
-	.banner_inner:hover {
-		transform: scale(1.1);
+.squar {
+	transition: transform .4s;
+	margin: 15px;
+}
+.squar:hover {
+	transform: scale(1.1);
+}
+
+
+
+
+

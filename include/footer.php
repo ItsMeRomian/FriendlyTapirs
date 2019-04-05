@@ -41,6 +41,7 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/stellar.js"></script>
 <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
 <script src="vendors/isotope/isotope-min.js"></script>
 <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
 <script src="js/theme.js"></script>

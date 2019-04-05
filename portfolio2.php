@@ -58,18 +58,36 @@
       </div>
   </section>
     
-	<section class="portfolio_area pb-0" id="portfolio" style="padding-top: 40px;">
+	<section class="portfolio_area section_gap_bottom" id="portfolio" style="padding-top: 40px;">
 		<div class="container-fluid" style="padding: 0px 80px;">
 			<div class="row justify-content-start align-items-center">
 				<div class="col main_title">
 				<h2>Onze vorige projecten.</h2>
 				</div>
 			</div>
-			haha
+			
+			<div class="row">
+				<div class="col squar">
+					<img src="https://placehold.it/250x250">
+				</div>
+				<div class="col squar">
+					<img src="https://placehold.it/250x250">
+				</div>
+				<div class="col squar">
+					<img src="https://placehold.it/250x250">
+				</div>
+				<div class="col squar">
+					<img src="https://placehold.it/250x250">
+				</div>
+				<div class="col squar">
+					<img src="https://placehold.it/250x250">
+				</div>
+				<div class="col squar">
+					<img src="https://placehold.it/250x250">
+				</div>
+			</div>
 		</div>
 	</section>
 	
-
-
-
+	
 <?php include_once('include/footer.php');?>
