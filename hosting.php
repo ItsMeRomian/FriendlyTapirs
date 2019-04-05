@@ -50,8 +50,8 @@
 			<div class="main_title text-left" style="margin-top: -85px;">
 				<h2>Hosting pakketten op maat.</h2>
 				<p class="text-justify">
-					Of u nou 10 verschillende paginas nodig heeft of 100, FriendlyTapirs zorgt dat uw klanten langer hoeven te wachten
-					dan een seconde voordat de pagina is geladen. Wij zorgen ervoor dat uw bestanden veilig en snel aankomen bij uw klanten.
+					Of u nou 10 verschillende paginas nodig heeft of 100, FriendlyTapirs zorgt dat uw klanten niet langer dan een seconde
+					hoeven te wachten voordat de pagina is geladen. Wij zorgen ervoor dat uw bestanden veilig en snel aankomen bij uw klanten.
 					Doormiddel van een SSL beveiliging en SSD opslag kunnen wij dit realiseren. 
 				</p>
 				
