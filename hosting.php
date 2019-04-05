@@ -31,7 +31,7 @@
 		</div>
 		<div class="col-lg-5" style="border:solid;">
 			<div class="about_img" style="right: unset;">
-				<img class="" src="img/about-us.png" alt="" style="    float: right;">
+				<img class="" src="img/domein.jpg" alt="" style="    float: right;">
 			</div>
 		</div>
 	</div>
