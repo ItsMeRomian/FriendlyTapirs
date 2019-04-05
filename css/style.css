@@ -40,12 +40,6 @@ ul {
     padding: 0
 }
 
-.list {
-    list-style: none;
-    margin: 0px;
-    padding: 0px
-}
-
 a {
     text-decoration: none;
     transition: all 0.3s ease-in-out
@@ -119,6 +113,16 @@ button.primary_btn {
 @media (max-width: 1199px) {
     .section_gap_top {
         padding-top:80px
+    }
+}
+
+.section_gap_top_half {
+    padding-top: 70px;
+}
+
+@media (max-width: 1199px) {
+    .section_gap_top_half {
+        padding-top: 40px;
     }
 }
 
@@ -537,7 +541,8 @@ button.primary_btn {
 .home_banner_area .banner_content h5 {
     font-size: 24px;
     font-weight: 300;
-    margin-bottom: 0px
+    margin-bottom: 0px;
+	color: #7b7878;
 }
 
 @media (max-width: 767px) {
@@ -3272,6 +3277,9 @@ h6 {
     .about_area .about_img {
         right:0
     }
+	.about_area .about_img_left {
+        right: unset;
+    }
 
     .about_area .about_img img {
         max-width: 100%;
@@ -3281,6 +3289,9 @@ h6 {
 
 @media (max-width: 991px) {
     .about_area .about_img {
+        display:none
+    }
+	.about_area .about_img_left {
         display:none
     }
 }
@@ -3339,6 +3350,11 @@ h6 {
 
 .service_item:hover .primary_btn2:before {
     background: #ffffff
+}
+
+.services_area .container .row a {
+	text-decoration: none; 
+	color: #797979;
 }
 
 .portfolio_area {
@@ -4159,7 +4175,9 @@ h6 {
 .footer_area .footer_logo {
     text-align: center
 }
-
+.footer_area .footer_logo h2 { color: white; }
+.footer_area .footer_logo nav { background-color: transparent; }
+.footer_area .footer_logo span { color: white; font-size: 18px; }
 .footer_area .footer_social {
     text-align: center;
     margin: 5px 0px 30px
@@ -4181,7 +4199,10 @@ h6 {
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s
 }
-
+.footer_area  .copyright {
+	color: white; 
+	font-size: 10px;
+}
 .footer_area .footer_social a:last-child {
     margin-right: 0px
 }
@@ -4201,6 +4222,7 @@ h6 {
 .footer_area .footer_bottom a {
     color: #a932c7
 }
+
 .portfolio_image {
 	box-shadow: 0 1px 2px rgba(0,0,0,0.15);
 	transition: box-shadow 0.2s ease-in-out;

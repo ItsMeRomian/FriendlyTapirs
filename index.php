@@ -12,7 +12,7 @@
 					<div class="banner_content">
 						<h3>FriendlyTapirs</h3>
 						<h1 class="text-uppercase">wij bouwen websites</h1>
-						<h5 class="text-uppercase" style="color: #153571;">Een betere bereikbaarheid begint online.</h5>
+						<h5 class="text-uppercase">Een betere bereikbaarheid begint online.</h5>
 						<div class="social_icons my-5">
 							<a target="_BLANK" href="https://twitter.com/friendlytapirs"><i class="fab fa-twitter"></i></a>
 							<a target="_BLANK" href="https://api.whatsapp.com/send?phone=31687207307&text&source&data"><i class="fab fa-whatsapp"></i></a>
@@ -25,10 +25,9 @@
 		</div>
 	</div>
 </section>
-
 <section class="about_area section_gap">
 	<div class="container">
-		<div class="row justify-content-start align-items-center">
+		<div class="row align-items-center">
 			<div class="col-lg-5">
 				<div class="about_img">
 					<img class="indexlaptop" src="img/about-us.png" alt="">
@@ -37,9 +36,7 @@
 			<div class="offset-lg-1 col-lg-5">
 				<div class="main_title text-left">
 					<p class="top_text">Over ons </p>
-					<h2>
-						Wij bouwen moderne websites.<br>
-					</h2>
+					<h2>Wij bouwen moderne websites.<br></h2>
 					<p>
 						De visie van ons bedrijf is om te zorgen dat wij de online zichtbaarheid van onze klanten maximaliseren. 
 						Wij zijn niet alleen gespecialiseerd in websites, maar ook in de optimalisatie van social media, 
@@ -51,20 +48,18 @@
 		</div>
 	</div>
 </section>
-
 <section class="services_area">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="main_title">
-				<p class="top_text">Diensten </p>
-					<h2>De diensten die wij leveren. <br> </h2>
+					<p class="top_text">Diensten</p>
+					<h2>De diensten die wij leveren.<br></h2>
 				</div>
 			</div>
 		</div>
-		
 		<div class="row">
-			<a href="webdev" style="text-decoration: none; color: #797979;">
+			<a href="webdev">
 				<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
 					<div class="service_item">
 						<img src="img/services/s1.png" alt="">
@@ -74,8 +69,7 @@
 					</div>
 				</div>
 			</a>
-
-			<a href="graphicdesign" style="text-decoration: none; color: #797979;">
+			<a href="graphicdesign">
 				<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
 					<div class="service_item">
 						<img src="img/services/s2.png" alt="">
@@ -86,7 +80,7 @@
 				</div>
 			</a>
 
-			<a href="hosting" style="text-decoration: none; color: #797979;">
+			<a href="hosting">
 				<div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
 					<div class="service_item">
 						<img src="img/services/s3.png" alt="">
@@ -106,14 +100,14 @@
 
 
 <div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="main_title">
-					<p class="top_text"></p>
-					<h2>Wij werken met:<br></h2>
-				</div>
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="main_title">
+				<p class="top_text">onze programma's</p>
+				<h2>Wij werken met:<br></h2>
 			</div>
 		</div>
+	</div>
 </div>
 <section class="brands-area section_gap_bottom">
 	<div class="container">
