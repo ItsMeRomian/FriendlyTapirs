@@ -29,7 +29,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="col-lg-5" style="border:solid;">
+		<div class="col-lg-5" >
 			<div class="about_img" style="right: unset;">
 				<img class="" src="img/domein.jpg" alt="" style="    float: right;">
 			</div>
