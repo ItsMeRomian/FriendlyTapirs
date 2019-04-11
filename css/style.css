@@ -4280,8 +4280,16 @@ h6 {
 .squar:hover {
 	transform: scale(1.1);
 }
-
-
-
+.modal-footer {
+	display: unset;
+	padding: 0.5rem;
+	border: none;
+}
+@media (min-width:576px) {
+    .modal-dialog {
+        margin: 6.50rem auto;
+    }
+.portfolio_popup_link {
+	text-align: center;
 
 
